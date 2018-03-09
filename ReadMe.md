@@ -9,3 +9,5 @@
 + iqiyi-8246915 : [爱奇艺2018秋季校招算法工程师（第一场）](https://www.nowcoder.com/test/8246915/summary)
 + iqiyi-8246859 : [爱奇艺2018秋季校招算法工程师（第二场）](https://www.nowcoder.com/test/8246859/summary)
 + iqiyi-8246879 : [爱奇艺2018秋季校招算法工程师（第三场）](https://www.nowcoder.com/test/8246879/summary)
++ wangyi-6910869 : [网易2018校园招聘编程题真题集合](https://www.nowcoder.com/test/6910869/summary)
+
