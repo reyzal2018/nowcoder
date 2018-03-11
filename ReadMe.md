@@ -12,3 +12,4 @@
 + wangyi-6910869 : [网易2018校园招聘编程题真题集合](https://www.nowcoder.com/test/6910869/summary)
 + wangyi-2811407 : [网易2017秋招编程题集合](https://www.nowcoder.com/test/2811407/summary)
 + tengxun-1725829 : [腾讯2017暑期实习生编程题](https://www.nowcoder.com/test/1725829/summary)
++ tengxun-5582994 : [腾讯2017秋招笔试编程题](https://www.nowcoder.com/test/5582994/summary)
