@@ -1,6 +1,9 @@
 牛客网部分编程题参考代码(所有代码在牛客网运行通过)
 ====================
+### 扫码获取字节跳动（今日头条/抖音短视频等）内推资格
+![](https://github.com/reyzalx/nowcoder/raw/master/resources/QR.png)
 
+### 试题列表
 + [sword2offer](https://github.com/ReyzalX/nowcoder/tree/master/sword2offer) : [剑指Offer系列](https://www.nowcoder.com/ta/coding-interviews)
 + [leetcode](https://github.com/ReyzalX/nowcoder/tree/master/leetcode) : [牛客网leetcode在线编程](https://www.nowcoder.com/ta/leetcode)
 + [toutiao-8537279](https://github.com/ReyzalX/nowcoder/tree/master/toutiao-8537279) : [今日头条2018校招后端方向（第一批）](https://www.nowcoder.com/test/8537279/summary)
